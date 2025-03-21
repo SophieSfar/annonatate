@@ -1,0 +1,37 @@
+---
+canvas: "https://media.nga.gov/public/manifests/canvas/106382.json"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ohr",
+            "purpose": "commenting",
+            "creator": {
+                "id": "SophieSfar",
+                "name": "SophieSfar"
+            },
+            "created": "2025-03-21T13:22:35.888Z",
+            "modified": "2025-03-21T13:22:36.452Z"
+        }
+    ],
+    "target": {
+        "source": {
+            "partOf": {
+                "id": "https://media.nga.gov/public/manifests/nga_highlights.json",
+                "type": "Manifest"
+            },
+            "id": "https://media.nga.gov/public/manifests/canvas/106382.json",
+            "type": "Canvas"
+        },
+        "selector": {
+            "type": "SvgSelector",
+            "value": "<svg><ellipse cx=\"14922.46875\" cy=\"10396.21728515625\" rx=\"1811.2392578125\" ry=\"1737.61181640625\"></ellipse></svg>"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "0c4b7c47-3a58-49ba-b2fe-c32f7bd6c43d.json",
+    "motivation": "commenting"
+}
